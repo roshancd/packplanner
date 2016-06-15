@@ -14,6 +14,10 @@ To use the pack planner please follow the steps below:
 (4) To run the application, run the command below.
     [mvn exec:java]
 
+    To run the application with jar file follow the steps below.
+        - Find the generated jar file "pack-planner-1.1.0-SNAPSHOT.jar" inside the "target" folder
+        - Run the command [java -jar pack-planner-1.1.0-SNAPSHOT.jar]
+
 (5) Enter your data in the format below and at the end enter empty line (press enter key).
 
     [Sort order] [max pieces per pack] [max weight per pack]
