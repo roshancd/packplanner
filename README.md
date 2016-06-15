@@ -30,7 +30,7 @@ To use the pack planner please follow the steps below:
                   6001,8200,50,41.21
                   7001,9200,50,16.21
 
-(5) Result will be displayed in following format.
+(6) Result will be displayed in following format.
 
     Pack number: [pack number]
     [item id],[item length],[item quantity],[piece weight]
@@ -69,5 +69,5 @@ To use the pack planner please follow the steps below:
                     --------------------------------------------------
 
 
-(6) Happy coding...!
+(7) Happy coding...!
 
